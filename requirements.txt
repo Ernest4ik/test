@@ -1,0 +1,6 @@
+fastapi
+pydantic
+sqlalchemy
+minio
+alembic
+psycopg2==2.9.9
